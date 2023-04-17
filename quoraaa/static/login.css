@@ -1,0 +1,19 @@
+body{
+    background-color:gainsboro!important;
+}
+.importants{
+    color: red !important;
+    font-size: large!important;
+}
+
+.text-main-color{
+color: red!important;
+font-size: x-large;
+font-weight: 600;
+}
+
+.pad-left button{
+margin-right: 20px!important;
+}
+
+
